@@ -1,0 +1,12 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9  # Version Python compatible
+  - pyextremes  # Pour l'analyse des extrêmes
+  - matplotlib  # Pour les visualisations
+  - cartopy     # Pour les cartes
+  - pandas      # Pour manipuler les données
+  - numpy       # Pour les calculs numériques
+  - scipy   
