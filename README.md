@@ -7,3 +7,6 @@ Le notebook montre comment explorer des données climatiques avec une approche f
 
 Voici le lien binder pour y accéder : https://mybinder.org/v2/gh/victoirebuffet/ExtremeDataAnalysis/HEAD
 
+# My Project
+
+[![Binder](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/username/my-repo/main?filepath=my_notebook.ipynb](https://mybinder.org/v2/gh/victoirebuffet/ExtremeDataAnalysis/HEAD))
